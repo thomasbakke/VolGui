@@ -34,6 +34,7 @@ Usage guide
 
 
 Support
+
 If you need help or have any questions, you can open an issue on our GitHub issue tracker. You can also join our community chat on Gitter. Additionally, you can email us at support@quasar.com. We're here to help you get the most out of Volatility3 GUI!
 
 
